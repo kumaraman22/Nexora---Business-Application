@@ -7,7 +7,7 @@ export default function About() {
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-4xl font-bold text-gray-900 mb-6">What We Do</h2>
           <p className="text-xl text-gray-600 mb-8 leading-relaxed">
-            TechHoldings is a forward-thinking technology holding company that creates, acquires, and scales innovative digital businesses. We focus on building market-leading companies across high-growth technology sectors.
+            Nexora is a forward-thinking technology holding company that creates, acquires, and scales innovative digital businesses. We focus on building market-leading companies across high-growth technology sectors.
           </p>
           
           <div className="grid md:grid-cols-3 gap-8 mt-12">
