@@ -13,7 +13,7 @@ export default function Hero() {
       <div className="container mx-auto px-6 text-center text-white">
         <div className="mb-8">
           <h1 className="text-6xl font-bold mb-4" style={{ fontFamily: 'var(--font-pacifico)' }}>
-            TechHoldings
+            Nexora
           </h1>
         </div>
         
