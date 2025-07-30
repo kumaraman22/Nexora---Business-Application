@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="grid lg:grid-cols-4 md:grid-cols-2 gap-8 mb-12">
           <div className="lg:col-span-1">
             <h3 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-pacifico)' }}>
-              TechHoldings
+              Nexora
             </h3>
             <p className="text-gray-400 mb-6 leading-relaxed">
               Building tomorrow's technology companies today. We invest in, create, and scale innovative digital businesses across high-growth sectors.
@@ -65,7 +65,7 @@ export default function Footer() {
               </div>
               <div className="flex items-center">
                 <i className="ri-mail-line text-blue-400 mr-3"></i>
-                <p>hello@techholdings.com</p>
+                <p>hello@Nexora.com</p>
               </div>
             </div>
           </div>
@@ -74,7 +74,7 @@ export default function Footer() {
         <div className="border-t border-gray-800 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 mb-4 md:mb-0">
-              © 2024 TechHoldings Inc. All rights reserved.
+              © 2025 Nexora Inc. All rights reserved.
             </p>
             <div className="flex space-x-6 text-gray-400 text-sm">
               <a href="#" className="hover:text-white transition-colors cursor-pointer">Privacy Policy</a>
